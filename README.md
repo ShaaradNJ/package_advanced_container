@@ -23,7 +23,7 @@ A custom Flutter widget that provides advanced layout options including padding,
 
 ## Installation
 
-```pubspec.yaml
+``` pubspec.yaml
 dependencies:
   advanced_container:
     git:
@@ -31,12 +31,12 @@ dependencies:
       ref: main
 ```
 
-```bash
+``` bash
 flutter pub get
 ```
 ## Usage
 
-```dart
+``` dart
 import 'package:flutter/material.dart';
 import 'package:advanced_container/advanced_container.dart';
 
